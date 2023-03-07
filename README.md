@@ -18,7 +18,7 @@ CloudXaas is always striving to improve, following the coding style of Google, M
 
 **Here, we seek to standardize package and function naming calls for everything.**
 
-Go to wiki for everything else and introduction 
+(https://github.com/cloudxaas/philosophy/wiki) Go to wiki for everything else and introduction 
 
 为了增强应用程序开发，我们可以创建标准化程序和函数的“系统调用”功能。这可以促进代码重用并提高程序运行速度。
 
