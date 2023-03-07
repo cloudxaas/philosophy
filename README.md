@@ -1,21 +1,17 @@
 # CloudXaas Philosophy
-We can standardize programs / functions into their own "syscall" functions for app development.
-This helps improves code reuse and can make programs run faster.
+To enhance app development, we can create "syscall" functions that standardize programs and functions. This can facilitate code reuse and improve program speed.
 
-I realised there are plenty functions out there that are being churned out plenty times all over everywhere.
-If the world can come together and united in a common standard for commonly used functions, the world will have peace.
+It has become evident that many functions are being redundantly created across different domains. 
+If a global standard for commonly used functions is established, it can bring harmony and coherence to the programming world.
 
-Based on years of experience coding, functions (for now) are mostly balanced between CPU time and memory use.
-Therefore each functions can be named function-25 for 25% cpu efficiency trading off memory space
-function-50 for 50% cpu and mem efficieny tradeoff function-75 for 75% cpu efficiency and memory tradeoff while "function" means 100% cpu efficiency.
+Based on extensive coding experience, most functions are typically balanced between CPU time and memory use. 
+As such, we can assign different names to each function based on their CPU efficiency and memory tradeoff, 
+such as function-25 for 25% CPU efficiency, function-50 for 50% CPU and memory efficiency, 
+function-75 for 75% CPU efficiency and memory tradeoff, while "function" denotes 100% CPU efficiency.
 
-How to develop cloudxaas programs and solutions
+To develop CloudXaaS programs and solutions, we prioritize aerospace military-grade standards for AI, 
+ultimate security, extreme performance, and maintainability. 
 
-1. Everything is written for use in **aerospace military grade for A.I.", 
-   ultimate security, extreme performance and maintainability in such sequence. 
-2. Everything is written in reusable functions, following modular simple, clean 
-   and minimal Unix philosophy.
-3. Always getting better.
+We write everything in reusable functions, following a modular, simple, clean, and minimal Unix philosophy. 
 
-Coding Style
-Google + Misra + AutoSAR + NASA + Linux = CloudXaas
+CloudXaas is always striving to improve, following the coding style of Google, Misra, AutoSAR, NASA, and Linux.
