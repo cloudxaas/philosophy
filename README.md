@@ -1,7 +1,7 @@
 # CloudXaas Philosophy
 
-1. Learn Go.
-2. Use as simple syntax for non performance critical code sections (so as to be easily translatable across all other languages and for developer maintenance where possible)
+1. Learn Go first.
+2. Use as simple syntax for non performance critical code sections (so as to be easily translatable across all other languages and for developer maintenance where possible). Keeping within context of "Go" programming language.
 
 To enhance app development, we can create "syscall" functions that standardize programs and functions. This can facilitate code reuse and improve program speed.
 
